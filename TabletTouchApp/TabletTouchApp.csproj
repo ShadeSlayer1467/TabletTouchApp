@@ -16,7 +16,7 @@
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.tablettouchapp</ApplicationId>
-		<ApplicationIdGuid>6d2a5d5f-3052-4517-9090-84d750dbabae</ApplicationIdGuid>
+		<ApplicationIdGuid>b3936543-bb3b-4922-b4c8-ad4ccfbdcbe2</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -49,6 +49,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="7.1.2" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
